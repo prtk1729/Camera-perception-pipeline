@@ -33,6 +33,5 @@ The pipeline is built step-by-step to process real-world **front camera data** c
 
 ---
 
-## 📂 Project Structure
 
 
